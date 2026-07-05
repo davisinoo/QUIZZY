@@ -1,0 +1,6 @@
+{
+  "name": "Préparation TAFEM",
+  "description": "Application mobile-responsive et ludique pour préparer le concours TAFEM avec système de répétition espacée (SRS), mascotte animée et score pénalisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
